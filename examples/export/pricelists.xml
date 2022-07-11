@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<root>
+    <pricelists>
+        <item>
+            <name>Retail</name>
+            <startDate>2-26-2007</startDate>
+            <endDate>6-26-2010</endDate>
+            <description>Prices for retail customers</description>
+        </item>
+        <item>
+            <name>Wholesale</name>
+            <startDate>2-26-2007</startDate>
+            <endDate>6-26-2010</endDate>
+            <description>Prices for wholesale customers</description>
+        </item>
+    </pricelists>
+</root>

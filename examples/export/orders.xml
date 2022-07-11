@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<root>
+    <orders>
+        <item>
+            <orderId>SO6</orderId>
+            <customer>Wide World Importers</customer>
+            <orderDate>6-26-2007</orderDate>
+            <deliveryDate>6-24-2008</deliveryDate>
+            <orderStatus>Active     </orderStatus>
+            <billToCity>Santa Fe</billToCity>
+            <billToCountry>US</billToCountry>
+            <billToZipcode>20940</billToZipcode>
+            <orderDiscount>396.91</orderDiscount>
+            <shipmentMethod>FedEx  </shipmentMethod>
+            <totalAmount>25001.46</totalAmount>
+        </item>
+        <item>
+            <orderId>SO2a</orderId>
+            <customer>Bold Bike Accessories</customer>
+            <orderDate>6-26-2007</orderDate>
+            <deliveryDate>6-24-2008</deliveryDate>
+            <orderStatus>Active     </orderStatus>
+            <billToCity>Topeka</billToCity>
+            <billToCountry>US</billToCountry>
+            <billToZipcode>20593</billToZipcode>
+            <orderDiscount>13.84</orderDiscount>
+            <shipmentMethod>Airborne</shipmentMethod>
+            <totalAmount>899.0</totalAmount>
+        </item>
+    </orders>
+</root>

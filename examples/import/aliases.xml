@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<root>
+    <aliases>
+        <item>
+            <member>
+                <item>client</item>
+                <item>customer</item>
+                <item>user</item>
+            </member>
+        </item>
+    </aliases>
+</root>

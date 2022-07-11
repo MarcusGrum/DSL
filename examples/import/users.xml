@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<root>
+    <users>
+        <item>
+            <identifier>123456</identifier>
+            <name>Alan Jackson</name>
+            <businessUnit>EasternRegion</businessUnit>
+            <title>Eastern region channel sales Representative</title>
+            <phone>555-1006</phone>
+        </item>
+        <item>
+            <identifier>123457</identifier>
+            <name>Ben Burton</name>
+            <businessUnit>CentralRegion</businessUnit>
+            <title>Eastern region Bike service technician</title>
+            <phone>555-1009</phone>
+        </item>
+    </users>
+</root>

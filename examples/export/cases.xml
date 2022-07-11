@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<root>
+    <cases>
+        <item>
+            <title>2 MBTs damaged during shipment</title>
+            <caseId>CAS-01001-LJDSKF</caseId>
+            <priority>Low</priority>
+            <status>Resolved</status>
+            <satisfaction>Neutral</satisfaction>
+        </item>
+        <item>
+            <title>Average order shipment time</title>
+            <caseId>Ticket13</caseId>
+            <priority>Normal</priority>
+            <status>Resolved</status>
+            <satisfaction>Satisfied</satisfaction>
+        </item>
+        <item>
+            <title>Bike damaged in shipment</title>
+            <caseId>Ticket6</caseId>
+            <priority>High</priority>
+            <status>Resolved</status>
+            <satisfaction>Very Dissatisfied</satisfaction>
+        </item>
+    </cases>
+</root>

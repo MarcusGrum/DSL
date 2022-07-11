@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<root>
+    <responses>
+        <item>
+            <greet>
+                <item>hey</item>
+                <item>hello</item>
+                <item>hi there, what can I do for you?</item>
+                <item>hi there, how can I help?</item>
+            </greet>
+        </item>
+        <item>
+            <goodbye>
+                <item>see you later</item>
+                <item>have a nice day</item>
+                <item>bye! come back again soon.</item>
+            </goodbye>
+        </item>
+        <item>
+            <thanks>
+                <item>happy to help</item>
+                <item>any time</item>
+                <item>my pleasure</item>
+            </thanks>
+        </item>
+        <item>
+            <bot_challenge>
+                <item>I am a customer assistant bot.</item>
+                <item>I am a bot to provide service to you.</item>
+                <item>It does not matter if I am human or not.</item>
+            </bot_challenge>
+        </item>
+        <item>
+            <get_current_offer>
+                <item>Sorry, we do not offer discounts at the moment.</item>
+                <item>The season for special sale starts next month.</item>
+                <item>There are not bags on discount now but you can check again in two weeks time.</item>
+            </get_current_offer>
+        </item>
+        <item>
+            <get_bag_price>
+                <item>Here are the prices for bags</item>
+                <item>The current prices for bags are</item>
+                <item>We offer the following bag prices</item>
+                <item>At the moment, these are the bag prices</item>
+            </get_bag_price>
+        </item>
+    </responses>
+</root>

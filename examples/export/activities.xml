@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<root>
+    <activities>
+        <item>
+            <subject>Close order for 25 road bikes</subject>
+            <type>Appointment</type>
+            <status>Open</status>
+            <priority>High</priority>
+            <dateCreated>6-26-2007</dateCreated>
+        </item>
+        <item>
+            <subject>gave a feedback on the seminar that they are interested</subject>
+            <type>Campaign Response</type>
+            <status>Open</status>
+            <priority>Normal</priority>
+            <dateCreated>6-26-2007</dateCreated>
+        </item>
+        <item>
+            <subject>Print ads in major dailies</subject>
+            <type>Campaign Activity</type>
+            <status>Open</status>
+            <priority>Normal</priority>
+            <dateCreated>6-26-2007</dateCreated>
+        </item>
+        <item>
+            <subject>Disc brake pads worn out</subject>
+            <type>Case Resolution</type>
+            <status>Completed</status>
+            <priority>Normal</priority>
+            <dateCreated>6-12-2007</dateCreated>
+        </item>
+        <item>
+            <subject>Interested in 31 less expensive road bikes</subject>
+            <type>E-mail</type>
+            <status>Open</status>
+            <priority>High</priority>
+            <dateCreated>6-26-2007</dateCreated>
+        </item>
+        <item>
+            <subject>Disc brake pads worn out</subject>
+            <type>Phone Call</type>
+            <status>Completed</status>
+            <priority>High</priority>
+            <dateCreated>6-12-2007</dateCreated>
+        </item>
+        <item>
+            <subject>Close Quote</subject>
+            <type>Quote Close</type>
+            <status>Completed</status>
+            <priority>Normal</priority>
+            <dateCreated>6-26-2007</dateCreated>
+        </item>
+        <item>
+            <subject>Disc Brake Service</subject>
+            <type>Service Activity</type>
+            <status>Open</status>
+            <priority>Low</priority>
+            <dateCreated>6-12-2007</dateCreated>
+        </item>
+        <item>
+            <subject>Pain admitted by sponsor</subject>
+            <type>Task</type>
+            <status>Open</status>
+            <priority>Normal</priority>
+            <dateCreated>6-26-2007</dateCreated>
+        </item>
+    </activities>
+</root>

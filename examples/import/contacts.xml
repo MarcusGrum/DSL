@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<root>
+    <contacts>
+        <item>
+            <fullName>Adrian Dumitrascu</fullName>
+            <gender>Male</gender>
+            <jobTitle>Purchasing Assistant</jobTitle>
+            <city>Redmond</city>
+            <country>USA</country>
+            <postalCode>86372</postalCode>
+            <currentOffer>Summer Sales 20%</currentOffer>
+        </item>
+        <item>
+            <fullName>Alan Brewer</fullName>
+            <gender>Male</gender>
+            <jobTitle>Purchasing Assistant</jobTitle>
+            <city>Redmond</city>
+            <country>USA</country>
+            <postalCode>19692</postalCode>
+        </item>
+        <item>
+            <fullName>Ann Beebe</fullName>
+            <gender>Female</gender>
+            <jobTitle>Owner</jobTitle>
+            <city>Carnation</city>
+            <country>USA</country>
+            <postalCode>24525</postalCode>
+            <currentOffer>Summer Sales 30%</currentOffer>
+        </item>
+    </contacts>
+</root>

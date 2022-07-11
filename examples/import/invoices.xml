@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<root>
+    <invoices>
+        <item>
+            <invoiceId>INVSO2a</invoiceId>
+            <customer>Bold Bike Accessories</customer>
+            <listPrice>Wholesale </listPrice>
+            <billToCity>Topeka</billToCity>
+            <billToCountry>US</billToCountry>
+            <billToZipcode>20593</billToZipcode>
+            <totalAmount>1020.36</totalAmount>
+        </item>
+        <item>
+            <invoiceId>INVSO14</invoiceId>
+            <customer>Solid Bike Parts</customer>
+            <listPrice>Wholesale </listPrice>
+            <billToCity>Denver </billToCity>
+            <billToCountry>US</billToCountry>
+            <billToZipcode>10046</billToZipcode>
+            <totalAmount>4872.84</totalAmount>
+        </item>
+    </invoices>
+</root>

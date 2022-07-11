@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<root>
+    <actions>
+        <item>
+            receive_greeting
+            <input>Intent to greet</input>
+            <output>greet</output>
+        </item>
+        <item>
+            transmit_greeting
+            <input>member</input>
+            <input>greet</input>
+            <output>utter_greet</output>
+        </item>
+        <item>receive_help_request</item>
+        <item>
+            get_product_price_information
+            <input>product_request</input>
+            <input>currentOffer</input>
+            <input>price</input>
+            <output>Desires of bag</output>
+            <output>The price is $final_price Euros.</output>
+        </item>
+        <item>
+            receive_bag_request
+            <input>Intent to ask for bag</input>
+            <input>Desires of bag</input>
+            <output>product_request</output>
+        </item>
+        <item>transmit_goodbye</item>
+        <item>
+            bot_challenge
+            <input>Intent to check whether human/bot</input>
+            <output>get confirmation from bot</output>
+        </item>
+        <item>
+            get_product_of_choice
+            <input>ask for shirt</input>
+            <input>size</input>
+            <input>ask for bag</input>
+            <input>brand</input>
+            <input>color</input>
+            <output>Desires of product</output>
+            <output>get product with desired properties</output>
+        </item>
+        <item>
+            get_bag_price
+            <input>Intent to ask for bag price</input>
+            <input>Desires of bag prices</input>
+            <output>fetch bag with prices</output>
+        </item>
+        <item>
+            get_current_offer
+            <input>Intent to get products on sale</input>
+            <output>fetch products with discount</output>
+        </item>
+        <item>get_reclamation_protocol</item>
+        <item>get_invoice</item>
+        <item>
+            greeting
+            </item>
+        <item>
+            say_goodbye
+            </item>
+    </actions>
+</root>

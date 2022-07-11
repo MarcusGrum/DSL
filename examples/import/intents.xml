@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<root>
+    <intents>
+        <item>
+            <greet>
+            	<item>hi</item>
+                <item>hey</item>
+                <item>hello</item>
+                <item>
+                    <slots>
+                        <item>
+                            <text>hi</text>
+                            <slot>first_name</slot>
+                        </item>
+                    </slots>
+                </item>
+                <item>good morning</item>
+                <item>good evening</item>
+                <item>hey there</item>
+            </greet>
+        </item>
+        <item>
+            <utter_greet>
+                <item>hey</item>
+                <item>hello</item>
+                <item>
+                    <slots>
+                        <item>
+                            <text>hi</text>
+                            <slot>first_name</slot>
+                        </item>
+                    </slots>
+                </item>
+                <item>good morning</item>
+                <item>good evening</item>
+            </utter_greet>
+        </item>
+        <item>
+            <goodbye>
+                <item>bye</item>
+                <item>goodbye</item>
+                <item>see you around</item>
+                <item>see you later</item>
+            </goodbye>
+        </item>
+        <item>
+            <response>
+                <item>The price is $final_price Euros.</item>
+            </response>
+        </item>
+        <item>
+            <thanks>
+                <item>thanks</item>
+                <item>thank you</item>
+                <item>that was helpful</item>
+                <item>thanks a lot!</item>
+            </thanks>
+        </item>
+        <item>
+            <bot_challenge>
+                <item>are you a bot?</item>
+                <item>are you a human?</item>
+                <item>am I talking to a bot?</item>
+                <item>am I talking to a human?</item>
+            </bot_challenge>
+        </item>
+        <item>
+            <get_current_offer>
+                <item>I wanted to check out bags and do you offer any discounts?</item>
+                <item>I am interested to look at bags that are on sale</item>
+                <item>Do you offer special discounts on bags at the moment</item>
+                <item>I would prefer to check out bags with a discount</item>
+                <item>do you have a sale offer for bags</item>
+                <item>are there bags on sale</item>
+            </get_current_offer>
+        </item>
+        <item>
+            <get_bag_price>
+                <item>What are the prices you have for bags?</item>
+                <item>I would like to know prices for bags.</item>
+                <item>I want to look at prices of bags</item>
+                <item>What price options do you have for bags</item>
+                <item>Can I see the price choices of bags</item>
+                <item>Can I get info about price of bags</item>
+            </get_bag_price>
+        </item>
+        <item>
+            <get_product_of_choice>
+                <item>Do you have shirt of size xl</item>
+                <item>Can you show me jacket with medium fit</item>
+                <item>Can I get small sized shorts</item>
+                <item>I am looking for medium size shirt</item>
+                <item>Can I get xxl size sweater</item>
+                <item>I want to buy a large size coat</item>
+                <item>Is there a bag with color black</item>
+                <item>I want a Chanel bag with color red</item>
+                <item>I want a red Chanel bag</item>
+                <item>I am interested to buy a Chanel bag</item>
+                <item>I want to buy a black bag</item>
+            </get_product_of_choice>
+        </item>
+    </intents>
+</root>
