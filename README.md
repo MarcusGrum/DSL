@@ -59,7 +59,7 @@ python -m compileall ./src
 
 # How to use dsl modeling notation for managing chatbot knowledge?
 
-![Image of DSL Data Flow](./documentation/images/DSLDataFlow.png)
+<img src="./documentation/images/DSLDataFlow.png" height="200" />
 
 1. Copy relevant .xml files of dsl standard to `$ModelangeloPath/scripts/dsl/examples/import`. These represent the chatbot's, machine-readable knowledge.
 
